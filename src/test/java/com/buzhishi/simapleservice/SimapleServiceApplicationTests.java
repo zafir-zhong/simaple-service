@@ -1,4 +1,4 @@
-package top.zzx1996.simapleservice;
+package com.buzhishi.simapleservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

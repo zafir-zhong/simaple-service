@@ -1,4 +1,4 @@
-package top.zzx1996.simapleservice.config;
+package com.buzhishi.simapleservice.config;
 
 import com.alibaba.fastjson.serializer.SerializerFeature;
 import com.alibaba.fastjson.support.config.FastJsonConfig;

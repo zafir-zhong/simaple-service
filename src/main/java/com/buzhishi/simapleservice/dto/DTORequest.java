@@ -1,4 +1,4 @@
-package top.zzx1996.simapleservice.dto;
+package com.buzhishi.simapleservice.dto;
 
 import lombok.Data;
 

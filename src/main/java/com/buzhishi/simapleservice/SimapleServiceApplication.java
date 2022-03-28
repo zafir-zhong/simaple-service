@@ -1,4 +1,4 @@
-package top.zzx1996.simapleservice;
+package com.buzhishi.simapleservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
